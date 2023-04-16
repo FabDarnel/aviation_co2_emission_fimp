@@ -1,0 +1,8 @@
+aircraft_type_id,aircraft_name,aircraft_iata,aircraft_icao,specific_fuel_consumption,lift_to_drag_ratio,fuel_flow_rate_taxi
+1,ATR 72-500,AT7,AT72,[SFC_ATR72-500],[L/D_ATR72-500],[TaxiRate_ATR72-500]
+2,A350-900neo,A359,A359,[SFC_A359neo],[L/D_A359neo],[TaxiRate_A359neo]
+3,A330neo,330,A33N,[SFC_A330neo],[L/D_A330neo],[TaxiRate_A330neo]
+4,A220,220,A220,[SFC_A220],[L/D_A220],[TaxiRate_A220]
+5,B788/B789,787,B787,[SFC_B787],[L/D_B787],[TaxiRate_B787]
+6,B747,747,B744,[SFC_B747],[L/D_B747],[TaxiRate_B747]
+7,B777,777,B772,[SFC_B777],[L/D_B777],[TaxiRate_B777]

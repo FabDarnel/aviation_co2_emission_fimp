@@ -1,0 +1,20 @@
+airport_id,airport_name,airport_iata,airport_icao,latitude,longitude
+1,Sir Seewoosagur Ramgoolam International,MRU,FIMP,-20.430235,57.683601
+2,Gillot,RUN,FMEE,-20.8871,55.5103
+3,Roland Garros,RUN,FMEE,-20.8871,55.5103
+4,Sir Gaetan Duval,RRG,FIMR,-19.757658,63.360983
+5,Ivato International Airport,TNR,FMMI,-18.79695,47.478806
+6,Cape Town International Airport,CPT,FACT,-33.964806,18.601667
+7,OR Tambo International Airport,JNB,FAOR,-26.139166,28.246018
+8,Seychelles International Airport,SEZ,FSIA,-4.674342,55.521839
+9,Dubai International Airport,DXB,OMDB,25.253175,55.365673
+10,King Abdulaziz International Airport,JED,OEJN,21.679564,39.156536
+11,Paris Charles de Gaulle Airport,CDG,LFPG,49.009722,2.547778
+12,Paris Orly Airport,ORY,LFPO,48.723333,2.379444
+13,Perth Airport,PER,YPPH,-31.940278,115.966944
+14,London Heathrow Airport,LHR,EGLL,51.4775,-0.461389
+15,London Gatwick Airport,LGW,EGKK,51.148056,-0.190278
+16,Frankfurt Airport,FRA,EDDF,50.033333,8.570556
+17,Indira Gandhi International Airport,DEL,VIDP,28.5665,77.103088
+18,Chhatrapati Shivaji Maharaj International Airport,BOM,VABB,19.088686,72.867919
+19,Pierrefonds Airport,ZSE,FMEP,-21.320039,55.423581
